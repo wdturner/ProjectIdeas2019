@@ -24,6 +24,6 @@ I wanna work on firefox
 I'd like to work on Battle for Wesnoth.
 >>>>>>> 399b67d03cbb7be20a46d78663b931c738dde6b3
 
-## Richard Richard Northrup
+## Richard Northrup
 
 I'd like to work on Audacity or Atom Editor
