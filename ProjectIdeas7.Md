@@ -7,3 +7,7 @@ Database system or multi-platform mobile application development SDK
 ## Inwon Kang
 
 I wanna work on firefox
+
+## Jakob Didio
+
+I'd like to work on Battle for Wesnoth.
