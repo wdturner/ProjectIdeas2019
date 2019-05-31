@@ -1,0 +1,1 @@
+My idea on the project will be on blockchain and smart contract. There are many interesting features of blockchain, such as immutability and decentralization. Lots of innovative apps could be created.
