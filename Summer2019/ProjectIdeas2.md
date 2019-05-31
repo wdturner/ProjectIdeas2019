@@ -9,5 +9,5 @@ The open source project I have identified as a possible area of interest is call
 ### Adam Xu
 Processor simulator, education-oriented.
 
-Gabriel Wild
+### Gabriel Wild
 Open Source Text Editor/ IDE
