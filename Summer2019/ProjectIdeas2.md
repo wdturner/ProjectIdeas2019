@@ -1,7 +1,9 @@
+**If you see 9 names, submit a pull request please**
 
 ### James Berry
 
 A java based RISC-V simulator which allows for the performance analysis of various microarchitecture implementations.
+
 ### Anthony Chen
 
 Review app for Emergency Services
@@ -16,3 +18,6 @@ The open source project I have identified as a possible area of interest is call
 
 ### Adam Xu
 Processor simulator, education-oriented.
+
+### Gabriel Wild
+Open Source Text Editor/ IDE
