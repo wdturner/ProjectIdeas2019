@@ -1,3 +1,4 @@
 - [Jack] I would like to contribute to i3-gaps or dmenu
 - My idea on the project will be on blockchain and smart contract. There are many interesting features of blockchain, such as immutability and decentralization. Lots of innovative apps could be created.
 - [Mark] I am thinking about developing some math tools with java.
+- [Zhuohao Lin] I would like to work on tensorflow and learn something about machine learning from this project.
