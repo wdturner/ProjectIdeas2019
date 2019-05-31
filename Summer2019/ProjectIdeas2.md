@@ -21,3 +21,6 @@ Processor simulator, education-oriented.
 
 ### Gabriel Wild
 Open Source Text Editor/ IDE
+
+### Elijah Smith
+A project that interests me wuld be a tool for gamers that recommends games for you based off of the games that you own and how much time that you've played them, and using those games' tags or other information available to suggest new games. If you're looking for a change of pace from the games that you usually play, the tool could do the opposite and recommend maybe a game that you own and haven't played a lot or an entirely new game that doesn't match any of the tags of your favorite games. The tool could have the option to select price range as well for these new games so you could perhaps look for cheap/free games that match your criteria only. And even if it can't find a perfect match, it could still suggest others and display information on how the tool chose its selections for recommendation. Tool would likely be primarily based off of the Steam API on PC, but additional APIs could consider other vendors such as GOG, Epic Games, or additional platforms such as Xboox or Playstation.
