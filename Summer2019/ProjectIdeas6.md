@@ -3,3 +3,4 @@ Benjamin Sherman: My project idea is for a LaTeX editor with inline rendering su
 Victor Nazzaro: My project idea is a automatic jazz piano voicing tool. \
 Devak Patel: Working on software that runs on pinball machines. \
 Tim Clough: working on a TensorFlow implementation of ES-HyperNEAT? \
+Austen Ross: Working on a game engine. \
