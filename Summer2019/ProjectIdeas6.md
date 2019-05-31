@@ -4,3 +4,4 @@ Victor Nazzaro: My project idea is a automatic jazz piano voicing tool. \
 Devak Patel: Working on software that runs on pinball machines. \
 Tim Clough: working on a TensorFlow implementation of ES-HyperNEAT? \
 Austen Ross: Working on a game engine. \
+Nick Chan: Project Idea to integrate a wardrobe manager into existing smart home devices \
