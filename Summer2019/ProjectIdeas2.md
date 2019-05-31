@@ -1,5 +1,9 @@
 **If you see 9 names, submit a pull request please**
 
+### Jiawen Lin
+
+A web-based or mobile-based scheduling app that helps users to sort out their class schedules, daily routines, etc.
+
 ### James Berry
 
 A java based RISC-V simulator which allows for the performance analysis of various microarchitecture implementations.
