@@ -10,3 +10,6 @@
 
 # Trevor Mansfield
 > I want to make an open source minecraft modpack like [Sev Tech Ages](https://minecraft.curseforge.com/projects/sevtech-ages) ([Github](https://github.com/DarkPacks/SevTech-Ages/issues)), [All the Mods 3](https://minecraft.curseforge.com/projects/all-the-mods-3) ([Github](https://github.com/AllTheMods/ATM-3)), or [Stone Block](https://minecraft.curseforge.com/projects/stoneblock) ([Github](https://github.com/Sunekaer/stoneBlock)) based on scripting and configuring a set of mods.
+
+# Ling Cheng
+> I am interested in learning more about the capabilities of Emacs or possibly creating a game.
