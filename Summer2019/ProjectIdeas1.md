@@ -13,3 +13,6 @@
 
 # Ling Cheng
 > I am interested in learning more about the capabilities of Emacs or possibly creating a game.
+
+# Chang Ju Kim
+> I'm interested in games. Emacs does sound interesting to delve into.
