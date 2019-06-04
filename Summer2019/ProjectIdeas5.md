@@ -2,4 +2,6 @@ I've been interested in creating software dealing with music creation, so I've b
 
 I'm part of the Student Senate Web Technologies group which works on projects like the ShuttleTracker and the Petitions site, so I am looking to work on one of these projects. -Evan Lazaro
 
-Was possibly interested in running running statistical analytics on a game called Rocket League. Replays in the game give you lots of information so you can run analysis on player tendencies and outcomes of common situations that occur within the games. -Jack Cherella
+Was possibly interested in running running statistical analytics on a game called Rocket League. Replays in the game give you lots of information so you can run analysis on player tendencies and outcomes of common situations that occur within the games. -Jack Cherella  
+
+I'm interested in either continuing my RCOS project from last semester called AutoCalendar, which is more on the WebDev side. AutoCalendar is a web app that allows users to input all the details of their regular weekly schedules (i.e. clubs and classes with times, locations, and other related descriptors). Another idea I might go for is a program to help predict ideal draft picks for fantasy football teams, which falls more along the lines of analytical programming. - Priya Sapra  
