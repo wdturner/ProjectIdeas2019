@@ -1,3 +1,4 @@
+
 I've been interested in creating software dealing with music creation, so I've been looking at Musescore, an open source music composition app. -Aidan Oakley  
 
 I'm interested in making an app that uses an open source API for a a music data base and an API 
@@ -16,3 +17,4 @@ I have a bunch of old CDs with 16-bit games that are no longer supported on 64-b
  
 I am part of an executive council of a sorority on campus. Since being on the E-board, I've found that our resources and information is very unorganized and difficult to find. I would love to make a clean UI where we can access things like our calander, budget, contact information, etc. - Virginia Barnes
 
+I am considering making a tutroial/data base for learning how to use a program I have encountered in the past. I am between two different programs I am decididing between are Latex and Jupyter. I use Latex frequently as a text editor and I want to learn how to use it proficiently. I have used a lot of help from online wikis and tutotrials but most of this information is scattered and can feel overwhelming. I would want to make some sort of interface or compose a combination of writing intrcutions and examples to show how to use Latex as a beginner. Jupyter is something I have not used in over a year but like Latex, it has a steep learning curve and the infromation online is very scattered. I used it in Physics II Honors when I wasa physics major. I would be less familiar with this interface now but I feel as though I may have more experience with this than computer science majors, having at one point needing it for a class. -Chris Reed
