@@ -16,3 +16,6 @@
 
 # Chang Ju Kim
 > I'm interested in games. Emacs does sound interesting to delve into.
+
+# Steven vanZyl
+> I'm interesting in both Operating Systems and Programming languages. Though I don't like C too much so that might make things harder...
