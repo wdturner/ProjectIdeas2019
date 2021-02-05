@@ -1,1 +1,0 @@
-Christopher's Idea: I would be interested in making an open source web-app, preferably using .NET, that would be easy for others to collaborate on. The web app would ideally be something that is very useful to a large number of people, and could possibly be a free alternative to a paid product.
