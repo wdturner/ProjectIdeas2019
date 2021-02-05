@@ -5,3 +5,5 @@ Trevor's idea is for a site or program with which you can keep track of what ing
 I was considering doing data analytics for games, along the lines of player gameplay optimization and helping players focus on what to improve through data.
 
 Abdul's Idea: Create an AI that can read minds.
+
+Christine's Idea: A tinder-like app that users can create profiles on and then swipe on different movies and tv shows. The idea is that after enough swiping, your profile is linked to a database of entertainment that you've tagged as like or dislike. Then, when you want to watch tv with someone else, you can compare databases with your friends and quickly learn what entertainment you have in common. It could even be taken a step further, and be filtered by genre, length, language, rating, etc.
