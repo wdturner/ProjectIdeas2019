@@ -1,0 +1,1 @@
+(Zachary Ward) My project idea is a web chat application that can be used to connect RPI students in a time where fellow classmates are more isolated than ever. While there are already several existing chat applications, there aren't any specifically for RPI students. Further, there certainly aren't any chat applications which may integrate features that SIS has into the app.
