@@ -11,3 +11,6 @@ made this post have already been working on this project, but as of now, it's
 not out for the public yet, and I don't think it's open source (I couldn't
 find any source code). I think it would be cool to make this an open source 
 app, as it is something many RPI students would be interested in.
+
+# Online Multiplayer Browser Game (Mack Qian)
+I'm interested in doing something web related as I have no experience in it at all. I think a simple multiplayer game might be something cool to do, though it might be a nightmare trying to deal with concurrency and syncing issues, so I might want to try to make some sort of 1v1 turn based game or something. Maybe a board game like chess? Or something new?
