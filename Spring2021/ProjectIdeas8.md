@@ -7,3 +7,5 @@ Andrew Khanschassoff: I am planning to work on an entertaining and educational M
 aiming to teach players something useful while playing.
 
 Stephen Trempel: I am planing to do a project related to cyber security. Maybe Shad0w, Hack Tools, or Packetwhisper.
+
+Gabe Orlanski: I am planning on working on a webapp or dataset creation project. Some initial ideas I had are job application tracker, reddit dataset creator, or inventory management system.  
