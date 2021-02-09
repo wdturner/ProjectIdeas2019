@@ -11,3 +11,5 @@ Stephen Trempel: I am planing to do a project related to cyber security. Maybe S
 Gabe Orlanski: I am planning on working on a webapp or dataset creation project. Some initial ideas I had are job application tracker, reddit dataset creator, or inventory management system.  
 
 Rylan O'Connell: I am thinking of doing something with either binary analysis/instrumentation, or with ducks. I am currently undecided on this.
+
+Prasant Acharya: I am probably going to work on a bit-torrent client written in C, and extensible with GNU Guile.
