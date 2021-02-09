@@ -13,3 +13,5 @@ Gabe Orlanski: I am planning on working on a webapp or dataset creation project.
 Rylan O'Connell: I am thinking of doing something with either binary analysis/instrumentation, or with ducks. I am currently undecided on this.
 
 Prasant Acharya: I am probably going to work on a bit-torrent client written in C, and extensible with GNU Guile.
+
+Dani Reil: I am currently thinking I am going to work on a webapp or some software I find useful/helpful to others. My current thoughts are a calendar/grade tracker or a political news/data website
