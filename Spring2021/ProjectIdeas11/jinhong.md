@@ -1,0 +1,1 @@
+I want to make a web application that ranks NBA players based on basic and advanced stats.
